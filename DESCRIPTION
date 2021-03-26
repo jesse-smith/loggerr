@@ -10,7 +10,8 @@ Description: loggerr is a dependency-free logging package designed to log output
     to the std_err stream (i.e. messages, warnings, and errors).
 License: MIT + file LICENSE
 Suggests: 
-    testthat (>= 3.0.0)
+    testthat (>= 3.0.0),
+    covr
 Config/testthat/edition: 3
 Encoding: UTF-8
 LazyData: true

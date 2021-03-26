@@ -4,6 +4,8 @@
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 [![CRAN status](https://www.r-pkg.org/badges/version/loggerr)](https://CRAN.R-project.org/package=loggerr)
+[![Codecov test coverage](https://codecov.io/gh/jesse-smith/loggerr/branch/master/graph/badge.svg)](https://codecov.io/gh/jesse-smith/loggerr?branch=master)
+[![R-CMD-check](https://github.com/jesse-smith/loggerr/workflows/R-CMD-check/badge.svg)](https://github.com/jesse-smith/loggerr/actions)
 <!-- badges: end -->
 
 loggerr is a dependency-free logging package designed to log output to the
